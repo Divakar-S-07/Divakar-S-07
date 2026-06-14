@@ -96,13 +96,9 @@ What drives me? Taking something complicated and breaking it down into a simple,
   </a>
 </p>
 
----
-
 ## 💬 Quote I Live By
 
 > *"Code is not just code, it's a way of thinking."*
 
----
 
-⭐ **If you like my work, consider giving a star to my repositories!**
 
