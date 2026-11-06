@@ -15,19 +15,9 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-```ts
-const divakar = {
-  role        : "Full Stack Developer",
-  location    : "India 🇮🇳",
-  focus       : ["React", "Next.js", "Node.js", "MERN Stack"],
-  passion     : "Turning complex problems into elegant, intuitive interfaces",
-  currentGoal : "Becoming a well-rounded full-stack engineer",
-  philosophy  : "If the user doesn't think twice, I've done my job right.",
-  contact     : "divaoffi01@gmail.com",
-};
-```
+
 
 I'm a software developer who thrives at the intersection of **design thinking** and **engineering precision**. I craft applications that are not only powerful under the hood but feel effortless to use. My journey has taken me from frontend fundamentals to full-stack architecture — and I'm just getting started.
 
@@ -38,7 +28,7 @@ I'm a software developer who thrives at the intersection of **design thinking** 
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -61,7 +51,7 @@ I'm a software developer who thrives at the intersection of **design thinking** 
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divakar-S-07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
@@ -74,7 +64,7 @@ I'm a software developer who thrives at the intersection of **design thinking** 
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Divakar-S-07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
@@ -82,7 +72,7 @@ I'm a software developer who thrives at the intersection of **design thinking** 
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -98,7 +88,7 @@ I'm a software developer who thrives at the intersection of **design thinking** 
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -110,7 +100,7 @@ I'm a software developer who thrives at the intersection of **design thinking** 
 
 ---
 
-## 💬 Philosophy
+##  Philosophy
 
 <div align="center">
 
@@ -126,6 +116,6 @@ I'm a software developer who thrives at the intersection of **design thinking** 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-**⭐ If you find my work interesting, don't forget to star the repos!**
+** If you find my work interesting, don't forget to star the repos!**
 
 </div>
