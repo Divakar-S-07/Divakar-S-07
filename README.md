@@ -32,20 +32,14 @@ I'm a software developer who thrives at the intersection of **design thinking** 
 
 <div align="center">
 
-### 🚀 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,mui&theme=dark" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
+  
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
+    
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,linux&theme=dark" />
 </p>
+
 
 </div>
 
